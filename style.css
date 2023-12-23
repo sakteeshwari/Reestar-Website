@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+body{
+margin: 10px;
+}
+/*Nav bar header*/
+.nav_top{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.nav_header{
+    color: white;
+}
+.nav_desc{
+    color: rgb(150, 149, 149);
+}
+/*images using div tag*/
+.img_container{
+    margin: 25px;
+    text-align: center;
+}
+.box_one,.box_two,.box_three,.box_four{
+    border: 2px solid black ;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+    text-align: center; 
+}
+.box_one{
+    
+}
+.image_one,.image_two,.image_three,.image_four{
+    height: 300px;
+    width: 200px;
+}
+.order_button{
+    height: 30px;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+}
+/*footer tag*/
+.footer_down{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+   
+}
+.table_one{
+   display: inline-block;
+   text-align: center;
+   padding: 10px;
+}
+.input_box{
+    height: 25px;
+    width: 200px;
+}
+.footer_button{
+    width: 400px;
+    height: 30px;
+    border: none;
+    background-color: yellow;
+
+}
