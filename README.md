@@ -1,5 +1,6 @@
-# Reestar Restaurant Website( https://sakteeshwari.github.io/Reestar-Website/)
+# Reestar Restaurant Website
 
+( https://sakteeshwari.github.io/Reestar-Website/)
 Welcome to the Reestar Restaurant website repository! This project showcases a modern, responsive website built specifically for a restaurant using HTML and CSS.
 
 ## About
